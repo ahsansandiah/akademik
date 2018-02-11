@@ -1,1 +1,1 @@
-# akademik
+# akademik (SKRIPSI)
